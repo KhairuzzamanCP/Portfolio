@@ -23,3 +23,13 @@
 - attribute
 - element, content
 - Debugging
+
+## 5 Semantic Tags Vs NonSemantic Tags
+
+### Semantic Tags
+
+- header,footer,main,form,table
+
+### NonSemantic Tags
+
+- div, span
